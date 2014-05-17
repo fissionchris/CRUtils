@@ -18,7 +18,4 @@
         :word:		Any alpha-numeric character, plus the underscore (_). Same as \w
         :ascii:		The ASCII characters, in the Hexadecimal range 0 - 7F
     
-    
-    
     #------------------------------::------------------------------#
-    #-----------------------: regexclass.md :----------------------#
